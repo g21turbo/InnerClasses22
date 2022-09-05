@@ -18,7 +18,7 @@ public class Main {
         ae86.operateClutch(true);
         ae86.changeGear(2);
         ae86.operateClutch(false);
-        System.out.println(ae86.wheelSpeed(1000));
+        System.out.println(ae86.wheelSpeed(2500));
 
 
     }
